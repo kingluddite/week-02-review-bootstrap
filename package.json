@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/kingluddite/week-02-review-bootstrap#readme",
   "dependencies": {
-    "bootstrap": "^4.6.0"
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper": "^1.0.1"
   }
 }
